@@ -68,7 +68,21 @@ that far. Whether it runs or not, just submit what you have.
 * P2P1 
 
 06/02 (Friday):
-* Interview prep slides: [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E) and [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
+* Interview prep slides: [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
+* Lecture on initial assessment solutions
+
+
+### Week 2 (06/05 -> 06/09)
+
+06/05 (Mon): 
+- [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
+- [Lecture](https://docs.google.com/presentation/d/1IWTae8WKRWPVQwRZd4HFyScnBESiECZAnfh4gb_tzvQ/edit#slide=id.p) on runtime analysis
+
+
+*Homework: P2p2 questions due Tonight at 7PM*
+### Below this point old schedule
+* [14 Patterns for Coding Interviews](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
 * Problem solving in class
   - [Repeated DNA sequences](https://leetcode.com/problems/repeated-dna-sequences/) 
   - [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) 
@@ -79,22 +93,9 @@ that far. Whether it runs or not, just submit what you have.
   - [Reverse substring between parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
   - [Project Euler #3:](https://projecteuler.net/problem=3) Largest prime factor [(solution)](https://stackoverflow.com/questions/23287/algorithm-to-find-largest-prime-factor-of-a-number)
   - [Project Euler #67: ](https://projecteuler.net/problem=67) Max path sum
-* [14 Patterns for Coding Interviews](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
-* Lecture on initial assessment solutions
-* [Lecture](https://docs.google.com/presentation/d/1IWTae8WKRWPVQwRZd4HFyScnBESiECZAnfh4gb_tzvQ/edit#slide=id.p) on runtime analysis
-
-### Below this point old schedule
-
-### Week 2 (06/13 -> 06/17)
-
-06/13 (Mon): 
-* P2p3
+06/14 (Tues): 
 * Mock interview in lecture using [this problem](https://leetcode.com/problems/contains-duplicate/)
 * Tree traversals: Level-order (BFS), recursive DFS traversals
-
-*Homework: P2p4 questions due Wednesday at 7PM*
-
-06/14 (Tues): 
 * [Find count of number in a sorted array](https://leetcode.com/discuss/interview-question/algorithms/124724/Find-count-of-a-number-in-sorted-array)
 * [Trees](https://leetcode.com/tag/tree/)
 * [DFS: Recursive and Iterative Approaches](https://faun.pub/implementing-recursive-and-iterative-dfs-on-a-binary-tree-golang-eda04949f4ee)
