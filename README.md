@@ -1,6 +1,6 @@
 # Technical Interview Prep Bootcamp Summer 2023
 
-Class Days and Class Times: Monday to Friday, 11:00 AM to 2:00 PM  
+Class Days and Class Times: Monday to Friday, 11:00 AM to 1:00 PM  
 
 Dates: May 30, 2023 to July 12th, 2023     
 
