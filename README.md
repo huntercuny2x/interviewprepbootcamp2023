@@ -78,8 +78,20 @@ that far. Whether it runs or not, just submit what you have.
 - [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 - [Lecture](https://docs.google.com/presentation/d/1IWTae8WKRWPVQwRZd4HFyScnBESiECZAnfh4gb_tzvQ/edit#slide=id.p) on runtime analysis
 
-
 *Homework: P2p2 questions due Tonight at 7PM*
+
+06/06 (Tues):
+- P2P2
+
+Homework: p2p3 problems
+
+06/07 (Weds)
+- CTCI trees
+- [Find count of number in a sorted array](https://leetcode.com/discuss/interview-question/algorithms/124724/Find-count-of-a-number-in-sorted-array)
+- Binary search
+- [Finding all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+
 ### Below this point old schedule
 * [14 Patterns for Coding Interviews](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
@@ -96,7 +108,6 @@ that far. Whether it runs or not, just submit what you have.
 06/14 (Tues): 
 * Mock interview in lecture using [this problem](https://leetcode.com/problems/contains-duplicate/)
 * Tree traversals: Level-order (BFS), recursive DFS traversals
-* [Find count of number in a sorted array](https://leetcode.com/discuss/interview-question/algorithms/124724/Find-count-of-a-number-in-sorted-array)
 * [Trees](https://leetcode.com/tag/tree/)
 * [DFS: Recursive and Iterative Approaches](https://faun.pub/implementing-recursive-and-iterative-dfs-on-a-binary-tree-golang-eda04949f4ee)
 * Implement a post-order and in-order traversal using an iterative approach
