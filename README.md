@@ -105,6 +105,8 @@ Homework: p2p3 problems
 
 **Homework: p2p4 problems**
 
+### Week 3 (06/12 -> 06/15)
+
 06/12 (Mon):
 - Find all anagrams in a string solution
 - Your suggestions OR:
@@ -135,7 +137,23 @@ Homework: p2p3 problems
 06/15 (Friday)
 - VIRTUAL!! Peer to peer 6
 
+**Homework: 
 
+### Week 4 (06/20 -> 06/23)
+06/20 (Tuesday)
+- Peer to peer 7
+
+06/21 (Wednesday)
+- Lecture
+
+06/22 (Thursday)
+- Peer to peer 8
+
+06/23 (Friday)
+- Peer to peer 9
+
+### Week 5 (06/26 -> 06/30)
+### Week 6 (07/03 -> 07/07)
 
 ### Below this point old schedule
 * [14 Patterns for Coding Interviews](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
