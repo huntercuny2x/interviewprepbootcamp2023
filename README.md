@@ -96,10 +96,11 @@ Homework: p2p3 problems
 
 06/09 (Fri):
 - Continue lecture topics from Wednesday: review kinds of binary trees, types of traversals, graphs
+- [Why is heapify O(n)?](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
 - [Tree traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/#)
 - [Binary search](https://www.geeksforgeeks.org/binary-search/)
 - [Solution: find count of number in sorted array](https://github.com/huntercuny2x/interviewprepbootcamp2022/blob/master/assignments/week2/day2/countTargetSortedArray.py)
-- https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/
+- [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/](N repreated element in size 2N array)
 - [Finding all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 **Homework: p2p4 problems**
@@ -135,7 +136,6 @@ Homework: p2p3 problems
 06/15 (Weds): 
 * Review heaps/priority queue
   - [Intro](https://www.thecshandbook.com/Heap)
-  - [Why is heapify O(n)?](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
   - [Heaps 1](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category)
   - [Heaps 2](https://leetcode.com/discuss/general-discussion/1113631/important-concepts-problems-in-priority-queueheaps)
 * Classwork:
