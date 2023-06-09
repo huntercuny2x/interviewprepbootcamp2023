@@ -58,6 +58,7 @@ that far. Whether it runs or not, just submit what you have.
 
 05/30 (Tues):
 * Course logistics: [intro slides](https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing)
+
 *Homework: Leetcode reading on [hash tables](https://leetcode.com/explore/learn/card/hash-table/)*
 
 05/31 (Weds): 
@@ -89,7 +90,20 @@ Homework: p2p3 problems
 - CTCI trees
 - [Find count of number in a sorted array](https://leetcode.com/discuss/interview-question/algorithms/124724/Find-count-of-a-number-in-sorted-array)
 - Binary search
+
+06/08 (Thurs)
+- P2P3
+
+06/09 (Fri):
+- Continue lecture topics from Wednesday: review kinds of binary trees, types of traversals, graphs
+- [Tree traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/#)
+- [Binary search](https://www.geeksforgeeks.org/binary-search/)
+- [Solution: find count of number in sorted array](https://github.com/huntercuny2x/interviewprepbootcamp2022/blob/master/assignments/week2/day2/countTargetSortedArray.py)
+- https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/
 - [Finding all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+**Homework: p2p4 problems**
+
 
 
 ### Below this point old schedule
