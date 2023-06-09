@@ -100,10 +100,40 @@ Homework: p2p3 problems
 - [Tree traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/#)
 - [Binary search](https://www.geeksforgeeks.org/binary-search/)
 - [Solution: find count of number in sorted array](https://github.com/huntercuny2x/interviewprepbootcamp2022/blob/master/assignments/week2/day2/countTargetSortedArray.py)
-- [https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/](N repreated element in size 2N array)
+- [N repreated element in size 2N array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/)
 - [Finding all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 **Homework: p2p4 problems**
+
+06/12 (Mon):
+- Find all anagrams in a string solution
+- Your suggestions OR:
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+
+**Homework: p2p4 problems due 7PM**
+
+06/12 (Tues):
+- Peer to peer 4
+
+06/13 (Wednesday):
+- Your suggestions OR:
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+**Homework: p2p5 problems due 7PM**
+
+06/14 (Thursday):
+- Peer to peer 5
+
+**Homework: p2p6 problems due 7PM**
+
+
+06/15 (Friday)
+- VIRTUAL!! Peer to peer 6
 
 
 
@@ -127,9 +157,7 @@ Homework: p2p3 problems
 * [DFS: Recursive and Iterative Approaches](https://faun.pub/implementing-recursive-and-iterative-dfs-on-a-binary-tree-golang-eda04949f4ee)
 * Implement a post-order and in-order traversal using an iterative approach
   - [Post-order](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
-* [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-* [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-* [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+
 
 *Homework: P2p4 questions due Wednesday at 7PM; p2p5 questions due Thursday at 7PM*
 
