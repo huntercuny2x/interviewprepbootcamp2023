@@ -108,7 +108,7 @@ Homework: p2p3 problems
 ### Week 3 (06/12 -> 06/15)
 
 06/12 (Mon):
-- Find all anagrams in a string solution
+- Find all anagrams in a string [solution](https://github.com/huntercuny2x/interviewprepbootcamp2023/blob/main/assignments/week3/day1/findallanagrams.cpp)
 - [Level order traversal](https://github.com/huntercuny2x/interviewprepbootcamp2022/blob/master/assignments/week2/day1/levelorder.py)
 - Your suggestions OR:
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
