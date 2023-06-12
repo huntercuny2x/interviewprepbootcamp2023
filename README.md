@@ -109,8 +109,10 @@ Homework: p2p3 problems
 
 06/12 (Mon):
 - Find all anagrams in a string solution
+- [Level order traversal](https://github.com/huntercuny2x/interviewprepbootcamp2022/blob/master/assignments/week2/day1/levelorder.py)
 - Your suggestions OR:
-- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 
@@ -121,8 +123,7 @@ Homework: p2p3 problems
 
 06/13 (Wednesday):
 - Your suggestions OR:
-- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-- [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
