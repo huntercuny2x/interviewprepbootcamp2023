@@ -145,7 +145,7 @@ Homework: p2p3 problems
 - Peer to peer 7
 
 06/21 (Wednesday)
-- Lecture
+- Midpoint Assessment 
 
 06/22 (Thursday)
 - Peer to peer 8
@@ -154,7 +154,46 @@ Homework: p2p3 problems
 - Peer to peer 9
 
 ### Week 5 (06/26 -> 06/30)
+
+06/26 (Monday)
+- External lecturers John Cline and Emilie Hsieh (link to recording coming soon)
+
+06/27 (Tuesday)
+- Peer to peer 10
+
+06/28 (Wednesday)
+- Midpoint assessment solutions
+- Graph traversals
+
+06/29 (Thursday)
+- Peer to peer 11
+
+06/30 (Friday)
+- Virtual! Peer to peer 12
+
 ### Week 6 (07/03 -> 07/07)
+07/03 (Monday)
+- Lecture
+
+07/05 (Wednesday)
+- Lecture
+
+07/06 (Thursday)
+- Peer to peer 12
+
+07/07 (Friday)
+- Virtual! Peer to peer 13
+
+### Week 7 (7/10-7/12)
+
+7/10 (Monday)
+- Lecture
+
+7/11 (Tuesday)
+- Final peer to peer 14
+
+7/12 (Wednesday)
+- Lecture
 
 ### Below this point old schedule
 * [14 Patterns for Coding Interviews](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
