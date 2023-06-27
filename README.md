@@ -179,10 +179,10 @@ Homework: p2p3 problems
 - Lecture
 
 07/06 (Thursday)
-- Peer to peer 12
+- Peer to peer 13
 
 07/07 (Friday)
-- Virtual! Peer to peer 13
+- Virtual! Peer to peer 14
 
 ### Week 7 (7/10-7/12)
 
@@ -190,7 +190,7 @@ Homework: p2p3 problems
 - Lecture
 
 7/11 (Tuesday)
-- Final peer to peer 14
+- Final peer to peer 15
 
 7/12 (Wednesday)
 - Lecture
